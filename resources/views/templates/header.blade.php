@@ -1,7 +1,7 @@
 <header class="masthead">
     <div class="container">
         <div class="masthead-subheading">
-           {{'Lojao das Utilidades'}}}
+           {{'Lojao das Utilidades'}}
         </div>
         <div class="masthead-heading text-uppercase">
             {{'A melhor loja de Bela Vista - MS!'}}
