@@ -1,10 +1,10 @@
 <header class="masthead">
     <div class="container">
         <div class="masthead-subheading">
-           {{setting('site.title')}}
+           {{'Lojao das Utilidades'}}}
         </div>
         <div class="masthead-heading text-uppercase">
-            {{setting('site.description')}}
+            {{'A melhor loja de Bela Vista - MS!'}}
         </div>
         <a class="btn btn-primary btn-xl text-uppercase" href="#services">
             {{$botao ?? 'Conheça nosso WebSite!'}}
